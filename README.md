@@ -150,4 +150,3 @@ GitHub: https://github.com/Divya-Kathare
 
 LinkedIn: https://www.linkedin.com/in/divya-kathare-41323a3a0
 
-Strong foundation in SQL, database design, and analytical problem-solving.
